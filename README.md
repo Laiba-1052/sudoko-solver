@@ -6,8 +6,12 @@ I have developed a Console-Based Sudoku Puzzle Solver and Player using C++.
 
 ## Tools used
 
-C++ (Standard Template Library, Console I/O)
+VSCode
+
+## Dependencies
+
 Standard C++ libraries: iostream, iomanip, string
+
 ## Features
 
 Console Interface with neatly centered UI
