@@ -8,10 +8,6 @@ I have developed a Console-Based Sudoku Puzzle Solver and Player using C++.
 
 VSCode
 
-## Dependencies
-
-Standard C++ libraries: iostream, iomanip, string
-
 ## Features
 
 Console Interface with neatly centered UI
@@ -27,3 +23,6 @@ The game uses a priority queue to optimize the solving process by choosing the c
 The backtracking algorithm is enhanced with possibility count heuristics for better performance.
 
 The board is dynamically printed with center alignment to create a more polished console experience.
+## Dependencies
+
+Standard C++ libraries: iostream, iomanip, string
